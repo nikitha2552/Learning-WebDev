@@ -1,0 +1,19 @@
+h1 {
+    color: lightblue;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+body {
+    background-color: palegoldenrod;
+}
+
+p {
+    font-size: 30px;
+    color: blueviolet;
+    text-align: left;
+    margin: 50px 50px 50px 50px;
+    padding: 20px 20px 20px 20px;
+    border: 3px dotted black;
+}
